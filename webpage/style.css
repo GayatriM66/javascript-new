@@ -1,0 +1,26 @@
+.first{
+background-color: blue;
+color:cyan;
+font-style: italic;
+font-size: xx-large;
+}
+
+.second{
+    background-color: rgb(255, 37, 153);
+    color:rgb(255, 247, 136);
+    font-size:40px;
+    font-style: oblique;
+}
+
+body{
+background-color:rgb(193, 230, 193);
+}
+
+#form{
+    background-color:rgb(255, 247, 136);
+    width: 200px;
+    height: 200px;
+    border-width: 3px;
+    border-color:rgb(255, 0, 89);
+    border-style: solid;
+}
